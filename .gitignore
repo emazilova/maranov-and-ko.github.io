@@ -1,0 +1,15 @@
+.metadata
+bin/
+tmp/
+*.tmp
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Mac crap
+.DS_Store
+
+.idea
+*/node_modules
+*debug.log
